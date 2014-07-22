@@ -1,0 +1,39 @@
+<Config>
+  <ResultValueType PeriodTypeCount="2" ValueTypeCount="3">
+    <PeriodType>
+      <Type>Name:昼间 ID:1a039bc3-f5f8-4dc3-9be2-9dd9af1757f8</Type>
+      <Type>Name:夜间 ID:06155569-3034-40b1-bfe1-e718448861dd</Type>
+    </PeriodType>
+    <ValueType>
+      <Type>BackNoiseL</Type>
+      <Type>Contribute</Type>
+      <Type>Forecast</Type>
+    </ValueType>
+  </ResultValueType>
+  <Contour ValueCount="15" ColorCount="5">
+    <Value>
+      <item>30</item>
+      <item>35</item>
+      <item>40</item>
+      <item>45</item>
+      <item>50</item>
+      <item>55</item>
+      <item>60</item>
+      <item>65</item>
+      <item>70</item>
+      <item>75</item>
+      <item>80</item>
+      <item>85</item>
+      <item>90</item>
+      <item>95</item>
+      <item>100</item>
+    </Value>
+    <Color>
+      <item>Index:0 R:0 G:255 B:0 A:255</item>
+      <item>Index:1 R:128 G:0 B:255 A:255</item>
+      <item>Index:2 R:255 G:255 B:0 A:255</item>
+      <item>Index:3 R:192 G:0 B:0 A:255</item>
+      <item>Index:4 R:0 G:0 B:255 A:255</item>
+    </Color>
+  </Contour>
+</Config>

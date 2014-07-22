@@ -1,0 +1,11 @@
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\bin\Debug\TestNetFiles.exe
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\bin\Debug\TestNetFiles.pdb
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\TestNetFiles.Form1.resources
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\TestNetFiles.Properties.Resources.resources
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\TestNetFiles.exe
+C:\aaasssdddfff\TestNetFiles\TestNetFiles\TestNetFiles\obj\x86\Debug\TestNetFiles.pdb
+F:\33333333333333OpenSceneGraphThirdApp\OSGPageLodApplication\尝试发布osg文件到网络\NetPageLodFiles\TestNetFilesGitHub\TestNetFiles\obj\x86\Debug\TestNetFiles.exe
+F:\33333333333333OpenSceneGraphThirdApp\OSGPageLodApplication\尝试发布osg文件到网络\NetPageLodFiles\TestNetFilesGitHub\TestNetFiles\obj\x86\Debug\TestNetFiles.pdb

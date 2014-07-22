@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+<OGRVRTLayer name="0_Block_Terrain">
+<SrcDataSource>test04\Terrain\Source\0_Block_Terrain.csv</SrcDataSource>
+<GeometryType>wkbPoint</GeometryType>
+<LayerSRS>+proj=UTM +zone=50 +datum=WGS84</LayerSRS>
+<GeometryField separator="  " encoding="PointFromColumns" x="field_1"  y="field_2" z="field_3"/>
+</OGRVRTLayer>
+</OGRVRTDataSource>
